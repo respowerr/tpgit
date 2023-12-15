@@ -20,6 +20,7 @@ section {
   border: black;
   background-color: #f0f0f0;
   border-style: dotted;
+  border-radius: 20px;
 }
 
 h2 {
